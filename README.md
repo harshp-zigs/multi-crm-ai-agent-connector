@@ -50,13 +50,3 @@ Predictions and suggestions are only as good as the records behind them, which i
 ## Get Started
 
 Ready to bring AI into your CRM? Visit [zignuts.com](https://zignuts.com/) to speak with the team.
-
-## Publish with GitHub Pages
-
-1. Add `intelligent-crm-agent-orchestration.jpg` to the repository root.
-2. Go to **Settings > Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. The site will be available at `https://harshp-zigs.github.io/multi-crm-ai-agent-connector/`.
-
-## Topics
-
-`crm-ai-integration` `sales-ai` `customer-service-ai` `ai-agents` `predictive-analytics` `crm-data` `enterprise-ai`
